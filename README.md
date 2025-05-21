@@ -43,6 +43,7 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+![Exercise 3](/flowcharts/Exercise%203.png)
 
 ## Exercise 4
 
