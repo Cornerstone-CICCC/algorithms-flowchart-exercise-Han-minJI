@@ -11,7 +11,7 @@
 - Each exercise should be in a different commit.
 - If you want to make changes after your commit, you should create a new commit.
 
-## Exercise 1
+## Exercise 1git
 Write an algorithm and draw a flowchart to convert the length in feet to centimeters.
 
 Pseudocode:
@@ -21,7 +21,7 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
-![Exercise 1](/flowcharts/Exercise1.png)
+![Exercise 1](/flowcharts/Exercise%201.png)
 
 ## Exercise 2
 
@@ -34,6 +34,7 @@ Pseudocode:
 - Print A
 
 ### _Answer_
+![Exercise 2](/flowcharts/Exercise%202.png)
 
 ## Exercise 3
 
