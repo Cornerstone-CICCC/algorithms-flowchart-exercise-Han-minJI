@@ -12,6 +12,7 @@
 - If you want to make changes after your commit, you should create a new commit.
 
 ## Exercise 1
+![Exercise 1](/flowcharts/Exercise1.png)
 
 Write an algorithm and draw a flowchart to convert the length in feet to centimeters.
 
